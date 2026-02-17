@@ -64,8 +64,12 @@ The goal is to improve **trust, accountability, and decision-making** in medical
 This histogram shows the frequency distribution of transaction amounts.
 
 <p align="center">
-  <img src="/Users/salonidol/Documents/output.png" width="600">
+  <img src="reports/figures/sales_distribution.png" width="600">
 </p>
+git add .
+git commit -m "Added sales distribution plot"
+git push
+
 
 ---
 
