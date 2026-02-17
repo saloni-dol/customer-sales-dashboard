@@ -122,7 +122,7 @@ This project demonstrates:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Saloni Atul Dol**  
 MSc Artificial Intelligence  
