@@ -79,7 +79,6 @@ This histogram shows the frequency distribution of transaction amounts.
 | F1 Score | 91% |
 | AUC Score | 0.95 |
 
-*(Update values based on your results)*
 
 ---
 
